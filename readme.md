@@ -20,5 +20,5 @@ To get started with PregaCare, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.comraohan-js/pregacare.git
+git clone https://github.com/raihan-js/pregacare.git
 cd pregacare
